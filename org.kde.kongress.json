@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/kongress/1.0.1/kongress-1.0.1.tar.xz",
-                    "sha256": "ca2b89a67c4d21abb535f8411154e26ae5a5ee0465e7f2b248296e1a1a6d2175"
+                    "url": "https://download.kde.org/stable/plasma-mobile/21.05/kongress-21.05.tar.xz",
+                    "sha256": "fa8968dc01903185640b59e67b45e96c2f9955aa6dbddc0ccb2ca94c40bcaf63"
                 }
             ]
         }
