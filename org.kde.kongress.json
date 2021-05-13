@@ -23,6 +23,10 @@
                     "type": "archive",
                     "url": "https://download.kde.org/stable/plasma-mobile/21.05/kongress-21.05.tar.xz",
                     "sha256": "fa8968dc01903185640b59e67b45e96c2f9955aa6dbddc0ccb2ca94c40bcaf63"
+                },
+                {
+                    "type": "patch",
+                    "path": "0001-Add-release-21.05-notes.patch"
                 }
             ]
         }
