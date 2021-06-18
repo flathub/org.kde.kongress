@@ -23,8 +23,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma-mobile/21.05/kongress-21.05.tar.xz",
-                    "sha256": "fa8968dc01903185640b59e67b45e96c2f9955aa6dbddc0ccb2ca94c40bcaf63"
+                    "url": "https://download.kde.org/stable/plasma-mobile/21.06/kongress-21.06.tar.xz",
+                    "sha256": "7ff7be4df83469f6542a3ef9a4556c84d06dd2ecdd5c9c28c2d8960dad4cd50e"
                 }
             ]
         }
