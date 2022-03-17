@@ -24,7 +24,13 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/plasma-mobile/22.02/kongress-22.02.tar.xz",
-                    "sha256": "c75e519739431237c88a5da4c8a156f41623cfb5ef40780ac5646db1d56d994d"
+                    "sha256": "c75e519739431237c88a5da4c8a156f41623cfb5ef40780ac5646db1d56d994d",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 242860,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/plasma-mobile/$version/kongress-$version.tar.xz"
+                    }
                 }
             ]
         }
