@@ -23,8 +23,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma-mobile/22.02/kongress-22.02.tar.xz",
-                    "sha256": "c75e519739431237c88a5da4c8a156f41623cfb5ef40780ac5646db1d56d994d",
+                    "url": "https://download.kde.org/stable/plasma-mobile/22.04/kongress-22.04.tar.xz",
+                    "sha256": "adfbc897ce3c0759820d47b4407f4238cda169e32c9f0f280ff5d0de1a44cb1f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242860,
@@ -36,4 +36,3 @@
         }
     ]
 }
-
