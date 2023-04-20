@@ -23,13 +23,13 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma-mobile/23.01.0/kongress-23.01.0.tar.xz",
-                    "sha256": "259399ac3214a091dc42ec5fc81e7f520b7973b3abe430b886db4a4dc80aaa7a",
+                    "url": "https://download.kde.org/stable/release-service/23.04.0/src/kongress-23.04.0.tar.xz",
+                    "sha256": "69f992ab1c5fde33c892646106b6de6ba2f0763c2b010f8a810909f06f729a86",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242860,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/plasma-mobile/$version/kongress-$version.tar.xz"
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kongress-$version.tar.xz"
                     }
                 }
             ]
