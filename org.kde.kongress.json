@@ -23,13 +23,13 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.3/src/kongress-23.04.3.tar.xz",
-                    "sha256": "17e4dd902de3d2f274bbea08c456e366eb8793bb32044e873e76ed188f20dafa",
+                    "url": "https://download.kde.org/unstable/release-service/23.07.90/src/kongress-23.07.90.tar.xz",
+                    "sha256": "fad15366026a0e8938bfae7657c9e166a8da23fc21b6f6e3471211c46d62f0f7",
                     "x-checker-data": {
                         "type": "anitya",
-                        "project-id": 242860,
+                        "project-id": 368663,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kongress-$version.tar.xz"
+                        "url-template": "https://download.kde.org/unstable/release-service/$version/src/kongress-$version.tar.xz"
                     }
                 }
             ]
