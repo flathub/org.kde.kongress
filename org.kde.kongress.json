@@ -48,8 +48,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.02.1/src/kpublictransport-24.02.1.tar.xz",
-                    "sha256": "c9b39726a24a55a63a9aa55eeff9547b36dcbf355a226dbc7ecec65894e3970c",
+                    "url": "https://download.kde.org/stable/release-service/24.08.0/src/kpublictransport-24.08.0.tar.xz",
+                    "sha256": "e91445d37d4ce0f6bb9aa0c039ea73f2709f65712bd11c72f3a83aadbc038c96",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -75,8 +75,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.02.1/src/kopeninghours-24.02.1.tar.xz",
-                    "sha256": "dee6298b90dc592e2aa38a9cd79ac8a5218c09c9bfe692f7dd7ea9497ad006ab",
+                    "url": "https://download.kde.org/stable/release-service/24.08.0/src/kopeninghours-24.08.0.tar.xz",
+                    "sha256": "d9c97b3c6ffc6c7105bc1f890788475a86e47bc02787916dae6459bdcc3658d6",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
