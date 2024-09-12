@@ -39,32 +39,6 @@
             ]
         },
         {
-            "name": "kpublictransport",
-            "config-opts": [
-                "-DBUILD_TESTING=OFF"
-            ],
-            "buildsystem": "cmake-ninja",
-            "builddir": true,
-            "sources": [
-                {
-                    "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.1/src/kpublictransport-24.08.1.tar.xz",
-                    "sha256": "cb7305cff8d6058f1773b84f7e2ced82614c976854c13b455fab49732ad656a7",
-                    "x-checker-data": {
-                        "type": "anitya",
-                        "project-id": 8763,
-                        "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kpublictransport-$version.tar.xz"
-                    }
-                }
-            ],
-            "cleanup": [
-                "/include",
-                "/lib/cmake",
-                "/mkspecs"
-            ]
-        },
-        {
             "name": "kopeninghours",
             "config-opts": [
                 "-DBUILD_TESTING=OFF",
