@@ -123,8 +123,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.1/src/kongress-25.08.1.tar.xz",
-                    "sha256": "e5abd4f5f68633cd0e1feb3467e79e2d3ff173c81c83d6b565904b1eb742f760",
+                    "url": "https://download.kde.org/stable/release-service/25.08.2/src/kongress-25.08.2.tar.xz",
+                    "sha256": "1c2a34903e38e257216276f4bc38732f9d16bddd0baa4ec6def4f9904135b6d7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242860,
