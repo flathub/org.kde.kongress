@@ -48,8 +48,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.2/src/kpublictransport-25.08.2.tar.xz",
-                    "sha256": "b2dec9e45fd631c8d6df81c08d4b9f4706ee3d4781165431a04a4b4c0c8c2ed3",
+                    "url": "https://download.kde.org/stable/release-service/25.08.3/src/kpublictransport-25.08.3.tar.xz",
+                    "sha256": "ed887df23d04a1ebd171b59c99dfaec26d62254e9a7ac4f8a7084ba301586c17",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -75,8 +75,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.2/src/kopeninghours-25.08.2.tar.xz",
-                    "sha256": "0fad39c77b72b714a9c5b6b1e2ab0fd8d23ef1489bfcfbdf1b47dfea998c7143",
+                    "url": "https://download.kde.org/stable/release-service/25.08.3/src/kopeninghours-25.08.3.tar.xz",
+                    "sha256": "0e60885d2cdb88fe0bf42fe39f01c9e284dd755727c585714832eba98c11cb73",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -101,8 +101,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.2/src/kosmindoormap-25.08.2.tar.xz",
-                    "sha256": "39a7f40947352a3e449cef8045f780a94d5af4d95e1800f6a6319a652928319b",
+                    "url": "https://download.kde.org/stable/release-service/25.08.3/src/kosmindoormap-25.08.3.tar.xz",
+                    "sha256": "1a2ce2c3e514bfe01e7b1fde943bf099121cad82a88f444bdac03b57509be3df",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
