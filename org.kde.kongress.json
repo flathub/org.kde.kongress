@@ -27,8 +27,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kpublictransport-25.12.3.tar.xz",
-                    "sha256": "5817a6d41d485322e79aef8dcab52b2dd01b86f5df2327a9104809addb0c44e7",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/kpublictransport-26.04.0.tar.xz",
+                    "sha256": "e4aad868410e97a6c2c34a8255888405ee272607bb3e4ae6fffeb0c92d98702b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -54,8 +54,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kopeninghours-25.12.3.tar.xz",
-                    "sha256": "674f7dd168679eecbc85d7e68052a0a979f4243a432958a698ba5bbd82178589",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/kopeninghours-26.04.0.tar.xz",
+                    "sha256": "dbcb9aa8018fe1b42bab1031b4f76d363aa0872380e125e04649f4ef5f6421ef",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -80,8 +80,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kosmindoormap-25.12.3.tar.xz",
-                    "sha256": "1da64c99c29fbd3f722732a14d44ab67417e66cec8de179fa5b2ec676aa6331b",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/kosmindoormap-26.04.0.tar.xz",
+                    "sha256": "6d8910de90b11fd519aeab7a7794a4e688d47f127f239a642cfe155efde4c6c0",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -102,8 +102,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kongress-25.12.3.tar.xz",
-                    "sha256": "488f06dc3270204ee16de2fd4c670d000f19d27cbbbae1c1ee5406c4dcbc7587",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/kongress-26.04.0.tar.xz",
+                    "sha256": "81f6f7a4f35da6f747a665c136bb0370ab498175ac09984cf4da188d09f6d5a7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242860,
