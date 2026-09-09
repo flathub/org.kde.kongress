@@ -16,33 +16,14 @@
         "--filesystem=xdg-download",
         "--persist=path"
     ],
+    "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/lib/pkgconfig",
+        "/metatypes",
+        "/share/qlogging-categories6"
+    ],
     "modules": [
-        {
-            "name": "kpublictransport",
-            "config-opts": [
-                "-DBUILD_TESTING=OFF"
-            ],
-            "buildsystem": "cmake-ninja",
-            "builddir": true,
-            "sources": [
-                {
-                    "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.2/src/kpublictransport-26.04.2.tar.xz",
-                    "sha256": "9669fdc271067f82851cf7804fc62fc0a5b228d488f9e9217a3b65d0e839c6b2",
-                    "x-checker-data": {
-                        "type": "anitya",
-                        "project-id": 8763,
-                        "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kpublictransport-$version.tar.xz"
-                    }
-                }
-            ],
-            "cleanup": [
-                "/include",
-                "/lib/cmake",
-                "/mkspecs"
-            ]
-        },
         {
             "name": "kopeninghours",
             "config-opts": [
@@ -63,17 +44,42 @@
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kopeninghours-$version.tar.xz"
                     }
                 }
+            ]
+        },
+        {
+            "name": "recast",
+            "config-opts": [
+                "-DBUILD_SHARED_LIBS=OFF",
+                "-DRECASTNAVIGATION_DEMO=OFF",
+                "-DRECASTNAVIGATION_EXAMPLES=OFF",
+                "-DRECASTNAVIGATION_TESTS=OFF",
+                "-DCMAKE_POSITION_INDEPENDENT_CODE=ON",
+                "-DCMAKE_POLICY_VERSION_MINIMUM=3.5"
+            ],
+            "buildsystem": "cmake-ninja",
+            "builddir": true,
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://github.com/recastnavigation/recastnavigation/archive/refs/tags/v1.6.0.tar.gz",
+                    "sha256": "d48ca0121962fa0639502c0f56c4e3ae72f98e55d88727225444f500775c0074",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 379780,
+                        "stable-only": true,
+                        "url-template": "https://github.com/recastnavigation/recastnavigation/archive/refs/tags/v$version.tar.gz"
+                    }
+                }
             ],
             "cleanup": [
-                "/include",
-                "/lib/cmake",
-                "/mkspecs"
+                "/lib"
             ]
         },
         {
             "name": "kosmindoormap",
             "config-opts": [
-                "-DBUILD_TESTING=OFF"
+                "-DBUILD_TESTING=OFF",
+                "-DCMAKE_DISABLE_FIND_PACKAGE_Protobuf=TRUE"
             ],
             "buildsystem": "cmake-ninja",
             "builddir": true,
@@ -89,11 +95,6 @@
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kosmindoormap-$version.tar.xz"
                     }
                 }
-            ],
-            "cleanup": [
-                "/include",
-                "/lib/cmake",
-                "/mkspecs"
             ]
         },
         {
