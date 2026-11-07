@@ -35,8 +35,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.2/src/kopeninghours-26.08.2.tar.xz",
-                    "sha256": "17f6710625f58a069b20ff6de36232abfb4c4ccdd90d93f739b5fb6a11726b14",
+                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/kopeninghours-26.08.3.tar.xz",
+                    "sha256": "0d785277e38bf37e1bed5d85749c48f7fc228a3f94b995236f4bf52db445241a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -86,8 +86,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.2/src/kosmindoormap-26.08.2.tar.xz",
-                    "sha256": "229020496b84f899b57993e99c9c2f750989bcb6fbe709610b7813b01f038c1e",
+                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/kosmindoormap-26.08.3.tar.xz",
+                    "sha256": "70f8453cee761778c2cd70a1de1899e797fe9947a616a3c66a2806d2a4e10711",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -103,8 +103,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.2/src/kongress-26.08.2.tar.xz",
-                    "sha256": "a118955cf029d4e671b396f383ab0f4b0734a0a731c8ce4bf690d15f68cf0209",
+                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/kongress-26.08.3.tar.xz",
+                    "sha256": "a09ea88fb3451c1853ba78e814410f5c113183b328cf51de5401c71fd78adcdc",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242860,
